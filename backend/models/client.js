@@ -10,5 +10,5 @@ const client = db.define('Client', {
 })
 
 module.exports = {
-    Store
+    client
 }

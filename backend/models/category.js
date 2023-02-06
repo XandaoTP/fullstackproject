@@ -10,5 +10,5 @@ const category = db.define('Category', {
 })
 
 module.exports = {
-    Store
+    category
 }

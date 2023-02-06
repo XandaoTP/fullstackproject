@@ -10,5 +10,5 @@ const product = db.define('Product', {
 })
 
 module.exports = {
-    Store
+    product
 }

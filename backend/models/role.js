@@ -10,5 +10,5 @@ const role = db.define('Role', {
 })
 
 module.exports = {
-    Store
+    role
 }
